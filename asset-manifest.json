@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.5724a24b.js",
+    "main.js": "/static/js/main.b782835d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/medizone.png": "/static/media/medizone.7531a5bd5afc350d87a8.png",
     "static/media/profile.png": "/static/media/profile.c4f443e7a6c318de82ae.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.5724a24b.js.map": "/static/js/main.5724a24b.js.map",
+    "main.b782835d.js.map": "/static/js/main.b782835d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5724a24b.js"
+    "static/js/main.b782835d.js"
   ]
 }
