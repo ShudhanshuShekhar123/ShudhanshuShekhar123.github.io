@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.743f6bdb.css",
-    "main.js": "/static/js/main.742ca654.js",
+    "main.js": "/static/js/main.b8895b00.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/elevatech.png": "/static/media/elevatech.d333afae465a55868a72.png",
     "static/media/infinityfit.png": "/static/media/infinityfit.01c5b6fba3a3d775e791.png",
@@ -11,11 +11,11 @@
     "static/media/codeconverter.png": "/static/media/codeconverter.d53b7c54a18586cc1ded.png",
     "index.html": "/index.html",
     "main.743f6bdb.css.map": "/static/css/main.743f6bdb.css.map",
-    "main.742ca654.js.map": "/static/js/main.742ca654.js.map",
+    "main.b8895b00.js.map": "/static/js/main.b8895b00.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.743f6bdb.css",
-    "static/js/main.742ca654.js"
+    "static/js/main.b8895b00.js"
   ]
 }
